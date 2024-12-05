@@ -1,0 +1,40 @@
+
+[
+    {
+        "version": "2.0",
+        "changes": [
+            {
+                "text": "Updated Play Integrity and spoofing code",
+                "icon": "🏳️"
+            },
+            {
+                "text": "Reworked Boot Animations",
+                "icon": "🎉"
+            },
+            {
+                "text": "New Reader Mode QS",
+                "icon": "📖"
+            },
+            {
+                "text": "Hidden navigation bar by default",
+                "icon": "👀"
+            },
+            {
+                "text": "Updated sources to Android 15",
+                "icon": "🚀"
+            },
+            {
+                "text": "Reduced GMS package",
+                "icon": "📏"
+            },
+            {
+                "text": "Improved battery life",
+                "icon": "🔋"
+            },
+            {
+                "text": "Fixed some bugs",
+                "icon": "🔧"
+            }
+        ]
+    }
+]
