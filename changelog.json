@@ -1,4 +1,3 @@
-
 [
     {
         "version": "2.0",
@@ -36,5 +35,259 @@
                 "icon": "🔧"
             }
         ]
+    },
+    {
+        "version": "1.5",
+        "changes": [
+            {
+                "text": "Updated Bootanimations",
+                "icon": "🎉"
+            },
+            {
+                "text": "New \"Fox\" Boot animation",
+                "icon": "🦊"
+            },
+            {
+                "text": "New SomethingOS Settings icon",
+                "icon": "🔧"
+            },
+            {
+                "text": "New SomethingOS Settings animation",
+                "icon": "🔧"
+            },
+            {
+                "text": "Rewrite PropImitationHooks",
+                "icon": "🔧"
+            },
+            {
+                "text": "Enabled Android 15 Predictive Back Gesture",
+                "icon": "🔧"
+            },
+            {
+                "text": "Added SomethingOS recovery (can now sideload Kernels/Magisk/Mods)",
+                "icon": "🔧"
+            },
+            {
+                "text": "Added Flashlight strength (Requires a supported device)",
+                "icon": "🔧"
+            },
+            {
+                "text": "Added Advanced Freeform Window",
+                "icon": "🔧"
+            },
+            {
+                "text": "Bring back previous implementation of advanced reboot menu",
+                "icon": "🔧"
+            },
+            {
+                "text": "Added Stock, Round, Square and Mixed QS Styles",
+                "icon": "🔧"
+            },
+            {
+                "text": "Added ability to disable/enable Play Integrity spoof",
+                "icon": "🔧"
+            },
+            {
+                "text": "Fixed title height in Settings",
+                "icon": "🔧"
+            },
+            {
+                "text": "Default build as user instead of userdebug",
+                "icon": "🔧"
+            }
+        ]
+    },
+    {
+        "version": "1.4",
+        "changes": [
+            {
+                "text": "July Security Patch",
+                "icon": "🔒"
+            },
+            {
+                "text": "Added Brightness slider Settings",
+                "icon": "🔧"
+            },
+            {
+                "text": "Added A15-like Settings design",
+                "icon": "🔧"
+            },
+            {
+                "text": "Added advanced reboot Settings",
+                "icon": "🔧"
+            },
+            {
+                "text": "Updated Lawnchair to ea7be89",
+                "icon": "⬇️"
+            },
+            {
+                "text": "Fix crash with Lawnchair in certain profiles",
+                "icon": "🔧"
+            },
+            {
+                "text": "Removed Paranoid Wallpapers",
+                "icon": "🗑️"
+            },
+            {
+                "text": "Removed YouTube from System apps (Useful for advanced users)",
+                "icon": "🗑️"
+            }
+        ]
+    },
+    {
+        "version": "1.3",
+        "changes": [
+            {
+                "text": "May Security patch",
+                "icon": "🔒"
+            },
+            {
+                "text": "Added Bootanimation changer",
+                "icon": "🎉"
+            },
+            {
+                "text": "Added Network traffic in statusbar",
+                "icon": "📶"
+            },
+            {
+                "text": "Added the ability to change back gesture height",
+                "icon": "🔧"
+            },
+            {
+                "text": "Added Hotspot setting in internet tile (NothingOS inspired)",
+                "icon": "🔧"
+            },
+            {
+                "text": "Added bottom QS brightness",
+                "icon": "🔧"
+            },
+            {
+                "text": "Added white QS theme",
+                "icon": "🔧"
+            },
+            {
+                "text": "Added split QS in landscape mode",
+                "icon": "🔧"
+            },
+            {
+                "text": "Added some more Pixel features flags",
+                "icon": "🔧"
+            },
+            {
+                "text": "Fixed an issue with package installer crashing",
+                "icon": "🔧"
+            },
+            {
+                "text": "Fixed an issue when the user couldn't edit tiles",
+                "icon": "🔧"
+            },
+            {
+                "text": "Hide Developer mode to apps is now an option",
+                "icon": "🔒"
+            },
+            {
+                "text": "Remove OnePlus QS Layout (that was causing some usage issues)",
+                "icon": "🔧"
+            },
+            {
+                "text": "Reduced Setting header",
+                "icon": "🔧"
+            },
+            {
+                "text": "Signed build",
+                "icon": "🔒"
+            },
+            {
+                "text": "Dropped Hide QS feature (Using Sensitive tiles instead)",
+                "icon": "🔧"
+            }
+        ]
+    },
+    {
+        "version": "1.2",
+        "changes": [
+            {
+                "text": "April Security Patch",
+                "icon": "🔒"
+            },
+            {
+                "text": "SomethingOS Settings Card Style",
+                "icon": "🔧"
+            },
+            {
+                "text": "Settings Categories redesign",
+                "icon": "🔧"
+            },
+            {
+                "text": "Settings Menus redesign",
+                "icon": "🖌️"
+            },
+            {
+                "text": "VolumePanel redesign",
+                "icon": "🎨"
+            },
+            {
+                "text": "QuickSettings redesign",
+                "icon": "🔧"
+            },
+            {
+                "text": "Add Adblock qs tile",
+                "icon": "🛡️"
+            },
+            {
+                "text": "Add \"Allow app downgrade\" switch",
+                "icon": "🔧"
+            },
+            {
+                "text": "Add Feature flags spoof for Google Photos",
+                "icon": "🔧"
+            },
+            {
+                "text": "Fixed an issue when screen won't turn on after Doze",
+                "icon": "📱"
+            },
+            {
+                "text": "Fixed an issue when Media keep showing after music stopped",
+                "icon": "🔧"
+            }
+        ]
+    },
+    {
+        "version": "1.1",
+        "changes": [
+            {
+                "text": "March Security update",
+                "icon": "🔒"
+            },
+            {
+                "text": "Added Updater",
+                "icon": "🔄"
+            },
+            {
+                "text": "Added SomethingOS version in settings",
+                "icon": "🔧"
+            },
+            {
+                "text": "Added clone app feature",
+                "icon": "📦"
+            },
+            {
+                "text": "Added MaterialFiles",
+                "icon": "📁"
+            },
+            {
+                "text": "Improved PlayIntegrity updater",
+                "icon": "🔒"
+            },
+            {
+                "text": "Fixed Spoof logic, spoofing should work again",
+                "icon": "🔧"
+            },
+            {
+                "text": "Hide Development settings and adb status to apps",
+                "icon": "🔒"
+            }
+        ]
     }
 ]
+
